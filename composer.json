@@ -1,0 +1,13 @@
+{
+  "name": "robert/report",
+  "description": "Weekly report generator",
+  "authors": [
+    {
+      "name": "Robert Zeng"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1"
+  }
+}
